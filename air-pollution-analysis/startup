@@ -1,0 +1,14 @@
+
+####################################
+cd air-pollution-analysis\backend
+# Activate the virtual environment:
+.\venv\Scripts\Activate.ps1
+# Run the Flask backend:
+python app.py
+
+
+########################################
+cd air-pollution-analysis\frontend
+
+# Start Vite dev server:
+npm run dev
